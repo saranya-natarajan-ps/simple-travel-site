@@ -1,4 +1,6 @@
-
+body {
+    font-family: "Sofia", sans-serif;
+  }
 header >h2{
     text-align: left;
 }
@@ -12,4 +14,15 @@ section {
   width: 50%;
   
   padding: 10px;
+}
+p{
+    font-family: 'Trebuchet MS', sans-serif, serif;
+}
+.styleTable{
+    border: 2px solid rgb(89, 167, 206);
+    border-collapse: collapse;
+    
+}
+.styleTable th,td {
+    border: 1px solid rgb(89, 167, 206);
 }
